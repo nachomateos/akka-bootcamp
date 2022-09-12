@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Akka" Version="1.4.8" />
-    <PackageReference Include="Octokit" Version="0.48.0" />
+    <PackageReference Include="Akka" Version="1.4.41" />
+    <PackageReference Include="Octokit" Version="2.0.1" />
   </ItemGroup>
 
 </Project>
